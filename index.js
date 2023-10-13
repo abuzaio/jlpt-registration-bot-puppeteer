@@ -297,7 +297,7 @@ async function selectPaymentMethod(page) {
 // TODO: TEST SUBMIT TO PAYMENT SCENARIO (MEDAN N3 ONLY) ✅✅✅
 
 //!! 👇🏼👇🏼👇🏼👇🏼 JANGAN LUPA SEBELUM RUN REAL SCENARIO JAM 9 👇🏼👇🏼👇🏼👇🏼
-//!! GANTI AKUN KE abuaziscorp@gmail.com (.env) & GANTI LOKASI KE JAKARTA = 2
+//!! GANTI AKUN KE 'REAL EMAIL' (.env) & GANTI LOKASI KE JAKARTA = 2
 //!! UNCOMMENT FUNCTION selectPaymentMethod()
 
 async function submitForm() {
